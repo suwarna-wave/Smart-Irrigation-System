@@ -1,5 +1,5 @@
 # Smart-Irrigation-System
-Sure, here's a step-by-step guide along with the proper pinouts for setting up your smart irrigation system with Arduino, soil moisture sensor, water pump, and LCD display:
+ Here's a step-by-step guide along with the proper pinouts for setting up your smart irrigation system with Arduino, soil moisture sensor, water pump, and LCD display:
 
 ### Components Required:
 1. Arduino Uno or similar board
